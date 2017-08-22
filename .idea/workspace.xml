@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e21fa173-3dba-4eab-9679-4903862297af" name="默认的" comment="" />
+    <list default="true" id="e21fa173-3dba-4eab-9679-4903862297af" name="默认的" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +107,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="72" />
     <option name="y" value="8" />
     <option name="width" value="1463" />
@@ -220,7 +222,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="72" y="8" width="1463" height="1041" extended-state="0" />
+    <frame x="72" y="8" width="1463" height="1041" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27429804" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
